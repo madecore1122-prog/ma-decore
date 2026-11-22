@@ -1,0 +1,3 @@
+Apni product photos is folder mein rakhein.
+Naam wohi rakhein jo js/products.js mein likha hai (jaise vase.jpg, lamp1.jpg).
+Photo na ho to khoobsurat placeholder khud nazar aata hai.
