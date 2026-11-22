@@ -127,7 +127,7 @@ export function OfferBanner() {
   return (
     <section className="px-4 py-6">
       <div className="container-x">
-        <div className="pattern-bg relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-ink-950 via-ink-900 to-ink-800 p-8 text-center ring-1 ring-gold-400/40 sm:p-14">
+        <div className="pattern-bg relative overflow-hidden rounded-[2rem] bg-ink-950 p-8 text-center ring-1 ring-gold-400/40 sm:p-14">
           <div className="absolute left-1/2 top-0 h-60 w-[36rem] -translate-x-1/2 animate-glow rounded-full bg-gold-400/30 blur-3xl" />
           <div className="relative">
             <span className="rounded-full bg-clay-500 px-4 py-1 text-[11px] font-semibold uppercase tracking-[.25em] text-white">{s.offerTitle}</span>
